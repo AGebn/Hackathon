@@ -1,3 +1,5 @@
+This is a working portfolio website for me which gives background information on me and provides useful links to people who might want to see things that I have created or would like to contact me. 
+
 # Libraries
 ​
 The libraries below each have great documentation and allow for a wide variety of interesting
